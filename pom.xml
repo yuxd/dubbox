@@ -496,6 +496,7 @@
 				<configuration>
 					<useSystemClassLoader>true</useSystemClassLoader>
 					<forkMode>once</forkMode>
+					<skipTests>true</skipTests>
 					<argLine>${argline}</argLine>
 					<systemProperties>
 						<!-- common shared -->
